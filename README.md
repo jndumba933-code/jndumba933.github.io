@@ -19,11 +19,9 @@ Welcome to my professional IT and development portfolio! I am an aspiring tech p
 * **View Code:** Click here to view the Technical Guide
 
 ### 📂 Project 2: Automated Microsoft Office Custom Deployment
-* **Description:** Designed and implemented a custom XML configuration blueprint using the Microsoft Office Deployment Tool (ODT). This project automates the installation of standard enterprise Office suites while explicitly excluding unnecessary software (like Project and Visio) to optimize local storage, reduce network bandwidth during deployment, and streamline hardware setups.
-​
-​
+* **Description:** Designed and implemented a custom XML configuration blueprint using the Microsoft Office Deployment Tool (ODT). This project automates the installation of standard enterprise Office suites while explicitly excluding unnecessary software (like Project and Visio) to optimize local storage, reduce network bandwidth during deployment, and streamline hardware setups.​
 * **Tech Used:** Office Deployment Tool (ODT), XML Configuration, Windows Command Line (CLI), Systems Administration
-* **View Project:** Click here to view the Deployment Files
+* **View Code:** [Click here to view deployment files](Configuration.xml)
 
 ---
 
