@@ -26,5 +26,5 @@ Welcome to my professional IT and development portfolio! I am an aspiring tech p
 ---
 
 ## 📬 Connect with Me
-* **LinkedIn:** https://jndumba933.github.io
+* **LinkedIn:** https://jndumba933-code.github.io/jndumba933.github.io/index.html
 * **Email:** jndumba933@gmail.com
