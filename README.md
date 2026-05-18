@@ -1,6 +1,7 @@
 # Hi, I'm J Ndumba 👋
 
 Welcome to my professional IT and development portfolio! I am an aspiring tech professional focused on building efficient programming logic, managing system configurations, and solving technical challenges.
+​Live Technical Portfolio: https://jndumba933-code.github.io/jndumba933.github.io/index.html
 
 ---
 
